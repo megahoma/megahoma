@@ -1,6 +1,7 @@
 ### Hi there My Name is Timofey <img src="./greeting.gif" alt="👋" width="30px">
 
-<a href="https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true" alt="Top Languages Card" /></a>
+| <a href="https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true" alt="Top Languages Card" /></a> |
+| ------------- | ------------- |
 
 <!--
 **megahoma/megahoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
