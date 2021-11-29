@@ -1,8 +1,7 @@
 ### Hi there My Name is Timofey <img src="./greeting.gif" alt="👋" width="30px">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)
-
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true&langs_count=10)
 
 <!--
 **megahoma/megahoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
