@@ -3,6 +3,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true&card_width=450&line_height=28&hide_border=1&)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true&langs_count=10)
 
+## Contact
+
+<a href="https://t.me/megahoma">![](https://img.shields.io/badge/Telegram-megahoma-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
+
 <!--
 **megahoma/megahoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
