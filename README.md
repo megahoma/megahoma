@@ -2,11 +2,11 @@
 
 ### Hello there, I'm Timofey 👋
 
-##### `megahoma@github:~$` nano my_info/contact
+##### `megahoma@github:~$` cat my_info/contact
 
 <a href="https://t.me/megahoma">![](https://img.shields.io/badge/Telegram-megahoma-informational?style=flat&logo=telegram)</a>
 
-##### `megahoma@github:~$` nano my_info/skills
+##### `megahoma@github:~$` cat my_info/skills
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -39,7 +39,7 @@
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
-##### `megahoma@github:~$` nano my_info/github_activity
+##### `megahoma@github:~$` cat my_info/github_activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&layout=compact&show_icons=true&theme=dark)](https://github.com/megahoma?tab=repositories)
