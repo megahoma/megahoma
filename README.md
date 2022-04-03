@@ -1,12 +1,17 @@
 ---
 
-### Hello there My Name is Timofey <img src="./greeting.gif" alt="👋" width="30px">
+### Hello there, I'm Timofey 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&layout=compact&show_icons=true&theme=dark)](https://github.com/megahoma?tab=repositories)
+##### `megahoma@github:~$` pwd
 
-## Contact
+##### `megahoma@github:~$` cd my_info
 
-<a href="https://t.me/megahoma">![](https://img.shields.io/badge/Telegram-megahoma-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
+##### `megahoma@github:~$` nano my_info/contact
+
+##### `megahoma@github:~$` nano my_info/skills
+
+##### `megahoma@github:~$` nano my_info/github_activity
+
+##### `megahoma@github:~$` nano my_info/skills
 
 ---
