@@ -3,6 +3,7 @@
 ### Hello there, I'm Timofey 👋
 
 ##### `megahoma@github:~$` pwd
+`/home/megahoma`
 
 ##### `megahoma@github:~$` nano my_info/contact
 
