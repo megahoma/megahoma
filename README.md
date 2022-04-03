@@ -2,9 +2,6 @@
 
 ### Hello there, I'm Timofey 👋
 
-##### `megahoma@github:~$` pwd
-`/home/megahoma`
-
 ##### `megahoma@github:~$` nano my_info/contact
 
 <a href="https://t.me/megahoma">![](https://img.shields.io/badge/Telegram-megahoma-informational?style=flat&logo=telegram)</a>
