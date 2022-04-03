@@ -4,9 +4,9 @@
 
 ##### `megahoma@github:~$` pwd
 
-##### `megahoma@github:~$` cd my_info
-
 ##### `megahoma@github:~$` nano my_info/contact
+
+<a href="https://t.me/megahoma">![](https://img.shields.io/badge/Telegram-megahoma-informational?style=flat&logo=telegram)</a>
 
 ##### `megahoma@github:~$` nano my_info/skills
 
@@ -14,7 +14,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&layout=compact&show_icons=true&theme=dark)](https://github.com/megahoma?tab=repositories)
-
-##### `megahoma@github:~$` nano my_info/skills
 
 ---
